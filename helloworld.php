@@ -29,3 +29,18 @@
 		echo " No, you are at school";
 	}
 ?>
+
+<br>
+
+<?php
+
+	// Loop
+	
+	for ($i=1; $i < $age; $i=$i+1){
+		
+		// If condition is true
+		echo $i;
+		
+	}
+
+?>
